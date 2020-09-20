@@ -1,5 +1,5 @@
 
-##Personal information
+## Personal information
 
 *Name:*	Meruyert Aitkaliyeva
 *Date of birth:*	17th December 1991

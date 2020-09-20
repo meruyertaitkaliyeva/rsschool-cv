@@ -16,3 +16,12 @@ Infocommunicational technologies faculty
 
 *Qualifications:*   May — July 2020; *HTML&CSS      Professional website Coding* courses at the HTML Academy
 July - September 2020; *HTML&CSS Adaptive Website Coding and Automation* courses at the HTML Academy
+
+*Work experience:* 
+__*Soglasie Insurance Company LLC*__, 2014-2020
+`+`Analysis, maintenance, formation and modification of data in reference books;  
+`+`Analysis of the causes of failures and violations in the operation of the reference data management system, development of proposals for their elimination and prevention;  
+`+`Training and consulting system users;  
+`+`Control over the timely processing of applications for changing information in the reference books of the NSI;  
+`+`Participation in the development of organizational and administrative documentation;  
+
